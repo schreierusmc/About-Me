@@ -1,13 +1,10 @@
-body {background-color:darkseagreen;}
+body {background-color:gainsboro;
+font-size: large
+font-family: Arial}
 h1 { background-color:lightgrey;
     color:red;
 	font-family:Times New Roman;
-	text-align: center}
-img {
-	vertical-align: text-top;
-}
-footer {
-	margin: auto;
-	height: 200px;
-	text-align: center;
-}
+text-align: center}
+footer {margin: auto;
+height: 300px;
+text-align: center;}
