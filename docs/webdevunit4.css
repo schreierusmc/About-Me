@@ -3,3 +3,6 @@ h1 { background-color:lightgrey;
     color:red;
 	font-family:Times New Roman;
 	text-align: center}
+img {
+	vertical-align: text-top;
+}
